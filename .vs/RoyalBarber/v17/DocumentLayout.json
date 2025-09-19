@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|c:\\users\\lenovo\\source\\repos\\royalbarber\\royalbarber\\base.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|solutionrelative:royalbarber\\base.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|c:\\users\\lenovo\\source\\repos\\royalbarber\\royalbarber\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|solutionrelative:royalbarber\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|c:\\users\\lenovo\\source\\repos\\royalbarber\\royalbarber\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|solutionrelative:royalbarber\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|c:\\users\\lenovo\\source\\repos\\royalbarber\\royalbarber\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|solutionrelative:royalbarber\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|c:\\users\\lenovo\\source\\repos\\royalbarber\\royalbarber\\appointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|solutionrelative:royalbarber\\appointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|c:\\users\\lenovo\\source\\repos\\royalbarber\\royalbarber\\staffregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C936EB0-B0A5-4E20-A33F-8CB4A45307EC}|RoyalBarber\\RoyalBarber.csproj|solutionrelative:royalbarber\\staffregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Register.aspx",
+              "RelativeDocumentMoniker": "RoyalBarber\\Register.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Register.aspx",
+              "RelativeToolTip": "RoyalBarber\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T12:30:49.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Login.aspx",
+              "RelativeDocumentMoniker": "RoyalBarber\\Login.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Login.aspx",
+              "RelativeToolTip": "RoyalBarber\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T12:30:06.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Appointment.aspx",
+              "RelativeDocumentMoniker": "RoyalBarber\\Appointment.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Appointment.aspx",
+              "RelativeToolTip": "RoyalBarber\\Appointment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T12:28:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffRegistration.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\StaffRegistration.aspx",
+              "RelativeDocumentMoniker": "RoyalBarber\\StaffRegistration.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\StaffRegistration.aspx",
+              "RelativeToolTip": "RoyalBarber\\StaffRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T12:28:08.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Default.aspx",
+              "RelativeDocumentMoniker": "RoyalBarber\\Default.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\Default.aspx",
+              "RelativeToolTip": "RoyalBarber\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T12:27:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "base.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\base.Master",
+              "RelativeDocumentMoniker": "RoyalBarber\\base.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RoyalBarber\\RoyalBarber\\base.Master",
+              "RelativeToolTip": "RoyalBarber\\base.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T12:07:18.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
