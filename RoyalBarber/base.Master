@@ -1,5 +1,4 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="base.master.cs" Inherits="RoyalBarber._base" %>
-
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
