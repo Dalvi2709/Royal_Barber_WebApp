@@ -4,7 +4,6 @@ RoyalBarber is a web-based Clinic and Barber Appointment Management System built
 It provides an easy way for customers to book appointments, staff to manage schedules, and admins to control the entire system.
 
 ## Features
-
 ### Customer
 - Register and log in
 - Book appointments with preferred staff and time
