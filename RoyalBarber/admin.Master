@@ -47,7 +47,7 @@
         <a href="Reports.aspx">Reports</a>
         <a href="Logout.aspx">Logout</a>
     </div>
-
+ 
     <!-- Main Content -->
     <div class="content">
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
