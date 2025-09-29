@@ -13,7 +13,7 @@ It provides an easy way for customers to book appointments, staff to manage sche
 ### Staff
 - Log in to view assigned appointments
 - Manage booking schedules
-- Track number of bookings
+- Track number of bookings 
 
 ### Admin
 - Manage staff accounts
